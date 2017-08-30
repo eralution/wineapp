@@ -1,2 +1,2 @@
 # wineapp
-Wine Appication
+Wine Application
